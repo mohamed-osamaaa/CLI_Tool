@@ -14,7 +14,7 @@ A simple command-line interface (CLI) tool built with Node.js, `commander`, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CLI_Tool.git
+   git clone https://github.com/mohamed-osamaaa/CLI_Tool.git
    ```
 
 2. Navigate to the project directory:
