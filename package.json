@@ -1,0 +1,18 @@
+{
+  "name": "CLI_Tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^10.0.1"
+  }
+}
