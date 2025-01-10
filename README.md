@@ -4,7 +4,7 @@
 https://github.com/user-attachments/assets/22993054-fc87-45f5-ab2d-f33ce9fa0d2c
 
 
-```markdown
+
 # CLI Tool
 
 A simple command-line interface (CLI) tool built with Node.js, `commander`, and `inquirer` for managing courses. It allows users to add new courses and list existing courses interactively, with data stored in a local JSON file.
